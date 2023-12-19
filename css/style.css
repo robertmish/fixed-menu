@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600&family=Roboto:wght@300;400&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+margin:0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+
+.top_logo {width: 100%;margin: 0 auto;padding-top: 20px;padding-bottom: 20px;position: fixed;height: 35px;background: #000;}
+
+.top_logo img {width: 100px;margin-left: 141px;}
+
+
+.slider {padding: 29px;background: #ffffff;padding-top: 76px;}
+.song_widget {width: 100%;}
+
+.song_widget img {
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.fixed_menu {padding-top: 20px;padding-bottom: 20px;position: fixed;bottom: 0px;background: #fff;width: 100%;box-shadow: 0px -6px 18px 13px #070b3c85;}
+.menu_buttons {display: flex;justify-content: space-around;}
+
+
+.menu_btn {
+    height: 24px;
+    width: 25px;
+    border: 1px solid #555;
+    padding: 10px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.menu_btn img {
+    width: 78%;
+    margin: 0 auto;
+}
+
+
+
